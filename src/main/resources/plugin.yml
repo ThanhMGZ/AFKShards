@@ -1,0 +1,8 @@
+name: AFKShards
+version: '${project.version}'
+main: org.thanhmagics.afkshards.AFKShards
+api-version: '1.19'
+folia-supported: false
+commands:
+  AFKShards:
+    usage: /<command>
